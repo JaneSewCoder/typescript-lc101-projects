@@ -1,6 +1,7 @@
 // Instructions are published in the online book. The URL is:
 // https://education.launchcode.org/intro-to-professional-web-dev/chapters/typescript/studio.html
 
+<<<<<<< HEAD
 import { Astronaut } from './Astronaut';
 import { Cargo } from './Cargo';
 import { Rocket } from './Rocket';
@@ -45,3 +46,8 @@ for (let i = 0; i < cargo.length; i++) {
 
 console.log(`Final cargo and astronaut mass: ${falcon9.currentMassKg()} kg.`);
 
+=======
+// TODO: 
+// * Code the Astronaut, Cargo, and Rocket classes in new files.
+// * Import the three classes into this file.
+>>>>>>> 50c573427ac5a123c18dd0d436c7ff4f1603997d
